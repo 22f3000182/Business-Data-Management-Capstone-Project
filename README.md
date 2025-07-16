@@ -1,4 +1,4 @@
-##The Elegant – Inventory Optimization and Sales Analysis
+**The Elegant – Inventory Optimization and Sales Analysis**
 This project presents a comprehensive data-driven analysis of The Elegant, a retail clothing and footwear store based in Rath, Hamirpur (Uttar Pradesh). The objective is to evaluate business performance through sales trends, inventory flow, and profitability metrics to support better decision-making in procurement, pricing, and inventory planning.
 
 ###Project Overview
